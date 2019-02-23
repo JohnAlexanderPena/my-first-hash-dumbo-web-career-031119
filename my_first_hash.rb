@@ -1,5 +1,5 @@
 def my_hash
- my_hash={BMW => "5 Series", Jeep => "Laredo", Mercedes => "AMG"} 
+ my_hash={"BMW" => "5 Series", "Jeep" => "Laredo", "Mercedes" => "AMG"} 
 end
 
 
